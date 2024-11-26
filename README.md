@@ -1,5 +1,7 @@
 # -Color-Flipper
 カラーフリッパー
+ランダムに背景色を変化させる方法
+
 
 img1
 ![random color](https://github.com/user-attachments/assets/a9add3f3-4d3d-47e2-8bcb-68ccc2125cfe)
